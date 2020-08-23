@@ -8,6 +8,11 @@
 - `pair.py`: codes about pairing the log file results (filtered) with record (not filtered)
 - `trans2js.py`: codes about transmition from log filter results to javascript codes
 
+```python
+# source & output file path need be changed inside the python files`
+run: python xxx.py
+```
+
 ## 2.Comments adding
 - `Element.cpp`: changes for elements + changes for css style + setInnerHTML + setOuterHTML
 - `Document.cpp`: document.write+setCookie...changes about web document 
