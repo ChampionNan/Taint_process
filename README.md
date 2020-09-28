@@ -5,6 +5,7 @@
 - `/exploit`: records about exploits (use different urls) and proper results in records
 - `filter_log.py`: codes about filting log files
 - `filter_record.py`: codes about filting record files
+- `filter_log.cpp`: codes for filting log files (cpp edition) (Errors detected, checking...)
 - `pair.py`: codes about pairing the log file results (filtered) with record (not filtered)
 - `trans2js.py`: codes about transmition from log filter results to javascript codes
 
