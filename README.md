@@ -7,7 +7,7 @@
 - `filter_record.py`: codes about filting record files
 - `filter_log.cpp`: codes for filting log files (cpp edition) (Errors detected, checking...)
 - `pair.py`: codes about pairing the log file results (filtered) with record (not filtered)
-- `trans2js.py`: codes about transmition from log filter results to javascript codes
+- `trans2js.py`: codes about transmitting from log filter results to javascript codes
 
 ```python
 # source & output file path need be changed inside the python files`
